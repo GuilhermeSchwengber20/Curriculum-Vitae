@@ -36,7 +36,7 @@ body
 {
     position: relative;
     background: #003147;
-    padding: 15px;
+    padding: 30px;
     white-space: nowrap;
 
 }
@@ -168,7 +168,7 @@ body
 {
     position: relative;
     background: #fff;
-    padding: 15px;
+    padding: 30px;
 }
 
 .about
